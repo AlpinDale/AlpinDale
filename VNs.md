@@ -285,7 +285,7 @@ Study § Steady||❔||EntisGLS|[v24689](https://vndb.org/v24689)
 Subarashiki Hibi ～Furenzoku Sonzai～|Wonderful Everyday - Discontinuous Existence |✅|||[v3144](https://vndb.org/v3144)
 Sugar * Style||✅|||[v24320](https://vndb.org/v24320)
 Suki to Suki to de Sankaku Ren'ai|Sankaku Ren'ai: Love Triangle Trouble!|🔑|Encrypted, KrKrExtractLite won’t help (0kB files)|KiriKiri|[v19444](https://vndb.org/v19444)
-SWAN SONG||❔|||[v914](https://vndb.org/v914)
+SWAN SONG||✅|||[v914](https://vndb.org/v914)
 sweet pool||🔑|Encrypted, GARbro couldn't extract||[v1399](https://vndb.org/v1399)
 Symphonic Rain||❔|||[v38](https://vndb.org/v38)
 Taimanin Asagi||❔||KiriKiri|[v731](https://vndb.org/v731)
@@ -338,3 +338,4 @@ Zombie no Afureta Sekai de Ore Dake ga Osowarenai vol.0|I Walk Among Zombies Vol
 Zombie no Afureta Sekai de Ore Dake ga Osowarenai vol.1|I Walk Among Zombies Vol. 1|❔||EntisGLS|[v16802](https://vndb.org/v16802)
 Zombie no Afureta Sekai de Ore Dake ga Osowarenai vol.2|I Walk Among Zombies Vol. 2|❔||EntisGLS|[v22774](https://vndb.org/v22774)
 Zombie no Afureta Sekai de Ore Dake ga Osowarenai vol.3|I Walk Among Zombies Vol. 3|❔||EntisGLS|[v22775](https://vndb.org/v22775)
+
