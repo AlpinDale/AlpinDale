@@ -9,7 +9,7 @@ I do all sorts of ML stuff.
 
 <!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlpinDale&layout=compact&theme=github_dark&hide=ruby,html,scss,cmake,dockerfile)](https://github.com/anuraghazra/github-readme-stats)-->
 
-<!--![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlpinDale&show_icons=true&theme=transparent)-->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlpinDale&show_icons=true&theme=transparent)
 
 **Reach**
 
