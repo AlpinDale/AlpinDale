@@ -2,6 +2,10 @@
 
 I do all sorts of ML stuff.
 
+```sh
+curl https://alpindale.dev/resume.man | man -l -
+```
+
 **Using**
 
 ![Linux](https://img.shields.io/badge/LFS-Linux%20From%20Scratch-yellow)
